@@ -1,7 +1,9 @@
 # Incremental Retro-Compatibility Programming Standard (IRCoProS o IRCPS)
 
 **Author**: Esteban Chacon Martín
+
 **Theme**: Code Standards and Retro-compatibility Management
+
 **License**: MIT
 
 In order to reduce considerably code breaks during new releases, even in the case we are using Unit Testing we present you with a programming standard that intends to avoid most and in some cases all of the code 
